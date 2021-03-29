@@ -1,6 +1,6 @@
 # Layout replication using Flexbox
 <p align="center">
-  <img width="700" height="400" src="./images/wixLayout.gif"/>
+  <img width="700" src="./images/wixLayout.gif"/>
 </p>
 
 ## Description:woman_teacher:
