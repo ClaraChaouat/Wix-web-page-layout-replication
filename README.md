@@ -1,6 +1,6 @@
 # Replicating a layout using Flexbox
 <p align="center">
-  <img width="500" src="./images/screenshot.png"/>
+  <img width="800" src="./images/wixLayout.gif"/>
 </p>
 
 ## Description:woman_teacher:
@@ -26,3 +26,7 @@ Willing to see this project without cloning the repo? Follow the link below :poi
 ## Major learning:woman_student:
 - Flexbox
 
+## Feedback :see_no_evil::hear_no_evil::speak_no_evil: 
+I'm still in a learning process of web development so feel free to shoot me an e-mail If you have any feedbacks/comments or any usefull things that could help me to keep improving :relaxed:.
+
+:email: clara.chaouat@gmail.com
