@@ -18,11 +18,6 @@ This project is built using:
 - HTML,
 - CSS.
 
-## Demo:dancing_men:
-Willing to see this project without cloning the repo? Follow the link below :point_down: 
-
-
-
 ## Major learning:woman_student:
 - Flexbox
 
