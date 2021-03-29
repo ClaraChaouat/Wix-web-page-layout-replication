@@ -1,4 +1,4 @@
-# Replicating a layout using Flexbox
+# Layout replication using Flexbox
 <p align="center">
   <img width="800" src="./images/wixLayout.gif"/>
 </p>
