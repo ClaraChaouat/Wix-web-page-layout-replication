@@ -12,6 +12,11 @@ It was one of the first project I had to do when I did my web development bootca
 1. Clone this repository from GitHub
 2. Open index.html in your browser.
 
+## Demo:woman_dancing:
+Willing to see this project without cloning the repo? Follow the link below :point_down: 
+
+https://wix-layout-replica.netlify.app/
+
 ## Technologies:man_technologist:
 This project is built using:
 - Flexbox,
