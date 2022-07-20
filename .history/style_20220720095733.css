@@ -17,13 +17,10 @@ body {
 }
 .navbar {
 	background: 0 0;
-	display: flex;
-    justify-content: center;
-    align-items: center;
 	height: 134px;
-
+	position: relative;
 	width: 100%;
-	
+	top: 0;
 }
 
 .nav-item {
@@ -32,9 +29,10 @@ body {
 	font-weight: normal;
 	text-decoration: none;
 	padding: 8px;
-	font-size: 20px;
-	font-weight: 600;
-
+	line-height: 48px;
+	font-size: 16px;
+	margin-top: 80px;
+	/*border: 1px solid blue;*/
 }
 
 a {
